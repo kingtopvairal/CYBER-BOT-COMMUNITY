@@ -141,7 +141,7 @@ module.exports.handleReply = async function ({ api, event, handleReply }) {
  "funny", "islamic", "sad", "anime", "cartoon",
  "love", "horny", "couple", "flower", "marvel",
  "aesthetic", "sigma", "lyrics", "cat", "18plus",
- "freefire", "football", "girl", "friend", "cricket"
+ "freefire", "football.", "girl", "friend", "cricket"
  ];
 
  if (replyNum < 1 || replyNum > categories.length) {
