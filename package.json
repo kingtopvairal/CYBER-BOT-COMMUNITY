@@ -14,7 +14,7 @@
   },
   "repository": {
       "type": "git",
-      "url": "https://github.com/cyber-ullash/CYBER-BOT-COMMUNITY.git"
+      "url": "https://github.com/cyber-hasib/CYBER-BOT-COMMUNITY.git"
   },
   "keywords": [
       "bot",
@@ -29,10 +29,10 @@
       "grandpa academy",
       "cyberbot.top"
   ],
-  "author": "Ullash ッ",
+  "author": "Hasib ッ",
   "license": "GPL-3.0",
   "bugs": {
-      "url": "https://github.com/cyber-ullash/CYBER-BOT-COMMUNITY/issues"
+      "url": "https://github.com/cyber-hasib/CYBER-BOT-COMMUNITY/issues"
   },
   "homepage": "https://github.com/cyber-ullash/CYBER-BOT-COMMUNITY/issues",
   "dependencies": {
